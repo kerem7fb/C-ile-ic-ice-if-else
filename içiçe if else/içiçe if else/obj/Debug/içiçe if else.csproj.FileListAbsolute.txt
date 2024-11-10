@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\10-M\içiçe if else\içiçe if else\bin\Debug\içiçe if else.exe.config
+C:\Users\user\Desktop\10-M\içiçe if else\içiçe if else\bin\Debug\içiçe if else.exe
+C:\Users\user\Desktop\10-M\içiçe if else\içiçe if else\bin\Debug\içiçe if else.pdb
+C:\Users\user\Desktop\10-M\içiçe if else\içiçe if else\obj\Debug\içiçe if else.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\10-M\içiçe if else\içiçe if else\obj\Debug\içiçe_if_else.Form1.resources
+C:\Users\user\Desktop\10-M\içiçe if else\içiçe if else\obj\Debug\içiçe_if_else.Properties.Resources.resources
+C:\Users\user\Desktop\10-M\içiçe if else\içiçe if else\obj\Debug\içiçe if else.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\10-M\içiçe if else\içiçe if else\obj\Debug\içiçe if else.exe
+C:\Users\user\Desktop\10-M\içiçe if else\içiçe if else\obj\Debug\içiçe if else.pdb
